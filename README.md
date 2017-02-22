@@ -6,3 +6,6 @@ This software is depended on Node.JS and Python mostly. So it is wise to have th
 
 # Installs
 Please keep up with the following instructions to do a proper installation.
+
+# Compilations
+You can't compile shit!!!
